@@ -108,7 +108,7 @@ main {
 .invalid::before {
   content: url("./images/icon-error.svg");
   position: absolute;
-  right: 8rem;
+  right: 5rem;
   z-index: 2;
 }
 
